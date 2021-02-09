@@ -17,12 +17,12 @@ subtitle:
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - #description: 90%
-  icon: r-project
-  icon_pack: fab
+  #icon: r-project
+  #icon_pack: fab
   name: R
 - #description: 100%
-  icon: Python
-  icon_pack: fas
+  #icon: Python
+  #icon_pack: fas
   name: Python
 - #description: 10%
   #icon: camera-retro
@@ -31,7 +31,7 @@ feature:
 - #description: 10%
   #icon: camera-retro
   #icon_pack: fas
-  name: Data Mining
+  name: Microsoft Office
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
