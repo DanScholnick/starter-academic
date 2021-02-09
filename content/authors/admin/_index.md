@@ -4,9 +4,6 @@ avatar_filename: bc976e57-f92e-4f41-9f34-f129be5bebef_1_201_a.jpeg
 bio: My research interests include food, nutritition, health, sports and education.
 interests: []
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: dscholnick@yahoo.com
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/Scholbandit
