@@ -9,6 +9,6 @@ title: Biography
 design:
   columns: "2"
   background:
-    image: bc976e57-f92e-4f41-9f34-f129be5bebef_1_201_a.jpeg
+    image: ""
 ---
 Hi, I'm Dan. I am aspiring data scientist.  I recently earned my master's degree in applied data science and am now raring to continue to learn and help others solve problems. Prior to starting this new career path, I worked as a professional chef / nutrition consultant for over 20 years. During that time, I helped numerous clients achieve their health goals through extensive research, menu development and communication. These positive outcomes were driven by research and led me to make the career change to data science.
