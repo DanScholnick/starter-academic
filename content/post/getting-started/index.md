@@ -1,5 +1,5 @@
 ---
-summary: ">"
+summary: ""
 draft: false
 authors: []
 lastmod: 2020-12-13T00:00:00Z
@@ -18,4 +18,4 @@ image:
 ---
 # *Success isn't about how much money you make; it's about the difference you make in people's lives.*      
 
-> ## \- Michelle Obama
+> > ## \- Michelle Obama
