@@ -16,10 +16,6 @@ image:
   placement: 2
   preview_only: false
 ---
+# *Success isn't about how much money you make; it's about the difference you make in people's lives.*      
 
-
-
-
-> # *Success isn't about how much money you make; it's about the difference you make in people's lives.*      
->
 > ## \- Michelle Obama
