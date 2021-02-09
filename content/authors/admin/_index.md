@@ -22,7 +22,7 @@ education:
     - course: AOS - Culinary Arts
       institution: California Culinary Academy
       year: ""
-    - course: Bachelors of Science Psychology
+    - course: BS - Psychology
       institution: University of California at Davis
       year: ""
 superuser: true
