@@ -5,9 +5,9 @@ author: admin
 widget_id: homepage
 headless: true
 weight: 20
-title: Biography
+title: My Story
 design:
-  columns: "2"
+  columns: "1"
   background:
     image: ""
 ---
