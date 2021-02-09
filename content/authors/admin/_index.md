@@ -16,10 +16,10 @@ social:
 organizations: []
 education:
   courses:
-    - course: Masters in Applied Data Science
+    - course: MS - Applied Data Science
       institution: Syracuse Universtity
       year: 2020
-    - course: Associate of Science in Culinary Arts
+    - course: AOS - Culinary Arts
       institution: California Culinary Academy
       year: ""
     - course: Bachelors of Science Psychology
@@ -31,5 +31,3 @@ title: Dan Scholnick
 email: ""
 ---
 Hi, I'm Dan. I am aspiring data scientist.  I recently earned my master's degree in applied data science and am now raring to continue to learn and help others solve problems. Prior to starting this new career path, I worked as a professional chef / nutrition consultant for over 20 years. During that time, I helped numerous clients achieve their health goals through extensive research, menu development and communication. These positive outcomes were driven by research and led me to make the career change to data science.
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
