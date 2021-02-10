@@ -10,6 +10,12 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/in/danielscholnick
+  - display:
+      header: false
+    label: ""
+    link: dscholnick@yahoo.com
+    icon: yahoo
+    icon_pack: fab
 organizations: []
 education:
   courses:
