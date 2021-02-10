@@ -20,6 +20,6 @@ design:
   view: 2
   flip_alt_rows: false
   background:
-    image: https://www.freepik.com/free-vector/coming-soon-construction-yellow-background-design_8562867.htm#page=1&query=under%20construction&position=2
+    image: featured.jpg
 ---
 ### \*\*\*\*  UNDER CONSTRUCTION  \*\*\*\*
