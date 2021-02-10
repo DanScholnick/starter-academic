@@ -1,7 +1,7 @@
 ---
 role: Data Scientist / Data Analyst
 avatar_filename: bc976e57-f92e-4f41-9f34-f129be5bebef_1_201_a.jpeg
-bio: My research interests include food, nutritition, health, sports and education.
+bio: "email: dscholnick@yahoo.com"
 interests: []
 social:
   - icon: twitter
