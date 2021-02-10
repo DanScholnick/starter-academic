@@ -20,6 +20,6 @@ design:
   view: 2
   flip_alt_rows: false
   background:
-    image: featured.jpg
+    image: ""
 ---
 ### \*\*\*\*  UNDER CONSTRUCTION  \*\*\*\*
