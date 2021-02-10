@@ -11,3 +11,8 @@ feature:
   - name: Microsoft Office
 widget_id: Skills
 ---
+**General**:   Data Analysis •  Data/Text Mining • Big Data • Machine Learning • Predictive Analytics •  Database • Data Warehousing • Data Mart Design
+
+**Coding**:     Python • R • SQL
+
+**Data Visualization**:    Python • R • Excel • Power BI • Adobe Illustrator • PowerPoint
