@@ -5,10 +5,10 @@ weight: 30
 title: Skills
 subtitle: null
 feature:
-  - name: R
-  - name: Python
-  - name: SQL
-  - name: Microsoft Office
+ - name: ""
+ - name: "" 
+ - name: ""
+ - name: ""
 widget_id: Skills
 ---
 **General**:    Data Analysis •  Data/Text Mining • Big Data • Machine Learning • Predictive Analytics •  Database • Data Warehousing • Data Mart Design
